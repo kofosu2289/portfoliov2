@@ -1,0 +1,35 @@
+.Project {
+  flex-basis: 45%;
+  transition: all .5s; 
+  overflow: hidden;
+}
+
+@media(max-width: 900px) {
+  .Project {
+      flex-basis: 100%;
+  }
+}
+
+.Reveal {
+  padding: 1.5rem;
+  position: absolute;
+  background-color: #fff;
+  width: 100%;
+  overflow-y: auto;
+  left: 0;
+  top: 100%;
+  height: 100%;
+  z-index: 3;
+  transform: translateY(0%);
+}
+
+.Show {
+  display: block;
+  transform: translateY(-100%);
+}
+
+.Buttons {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}

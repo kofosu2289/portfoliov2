@@ -1,0 +1,10 @@
+.active {
+  color: yellow;
+  border-bottom: 2px solid yellow;
+}
+
+@media(max-width: 30em) {
+  .active {
+    border-bottom:none;
+  }
+}
