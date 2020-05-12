@@ -1,8 +1,8 @@
 ---
-title: kofosu.com
+title: kofosucodes.com
 techStack: Gatsby, React, GraphQL, Tachyons.css
-imageURL: '../assets/kofosu-com.png'
-demo: https://vigorous-brown-d3459a.netlify.app/
+imageURL: '../assets/kofosucodes-com.png'
+demo: https://kofosucodes.com/
 description: A software engineer portfolio site built with GatsbyJS
 repo: https://github.com/kofosu2289/portfolio-v2
 ---
