@@ -5,8 +5,8 @@
       "component---src-pages-index-js-791f0f704bd6319893ed.js.map"
     ],
     "path---blog": [
-      "path---blog-c6bf677663282385d354.js",
-      "path---blog-c6bf677663282385d354.js.map"
+      "path---blog-266af79ed5b7db967dad.js",
+      "path---blog-266af79ed5b7db967dad.js.map"
     ],
     "path---": [
       "path----131f9aef94525eeb6ecd.js",
@@ -21,8 +21,8 @@
       "path---static-files-in-gatsby-edddcf842b29ad30b141.js.map"
     ],
     "path---projects": [
-      "path---projects-d88ea76a4b8729a41f1b.js",
-      "path---projects-d88ea76a4b8729a41f1b.js.map"
+      "path---projects-9f35bf1ea01fbb72add0.js",
+      "path---projects-9f35bf1ea01fbb72add0.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-d326390b8a0983fc5c98.js",
@@ -39,6 +39,10 @@
     "path---hello-world": [
       "path---hello-world-d7ccab2c0c554dcc36b5.js",
       "path---hello-world-d7ccab2c0c554dcc36b5.js.map"
+    ],
+    "path---writing-a-snake-game-for-the-terminal-in-javascript": [
+      "path---writing-a-snake-game-for-the-terminal-in-javascript-46673bbddbfab027e547.js",
+      "path---writing-a-snake-game-for-the-terminal-in-javascript-46673bbddbfab027e547.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-45c87a32948f9e8571ae.js",
@@ -71,9 +75,9 @@
       "component---src-layouts-landing-page-js-2723e81209d97040543f.js.map"
     ],
     "app": [
-      "app-f86660230f86bc4b08e2.js",
+      "app-13882613392b66ee9eff.js",
       "build-js-styles.css",
-      "app-f86660230f86bc4b08e2.js.map",
+      "app-13882613392b66ee9eff.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
