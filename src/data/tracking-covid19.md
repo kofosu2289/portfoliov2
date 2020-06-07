@@ -2,7 +2,7 @@
 title: Tracking Covid-19
 techStack: React, Recharts, Material UI
 imageURL: '../assets/tracking-covid19.png'
-demo: https://covid19-dashboard.surge.sh/
+demo: https://covid-dashboard.surge.sh/
 description: A COVID-19 statistics tracker and data visualization tool
 repo: https://github.com/kofosu2289/Tracking_COVID-19
 ---
