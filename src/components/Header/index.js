@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import PropTypes from 'prop-types'
+import Resume from '../../assets/koResume.pdf'
 
 import classes from './Header.module.css'
 
@@ -38,8 +39,16 @@ const Header = props => {
           activeClassName={classes.active}
 					to="/blog"
 				>
-					Blog
+          Blog
 				</Link>
+        <Link
+          className="f5 f4-m f4-l fw4 hover-yellow no-underline black-70 dib pv2 ph3"
+          onClick={() => {
+            window.open(Resume, '_blank').focus()
+          }}
+        >
+          Resume
+        </Link>
 				<Link
           className="f5 f4-m f4-l fw4 hover-yellow no-underline black-70 dib pv2 ph3"
           activeClassName={classes.active}
